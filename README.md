@@ -18,17 +18,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
   <br/>
   <p align="center">
-    <a href="https://github.com/thenobrainguyy"><img alt="thenobrainguyy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BabyEntchen&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
+    <a href="https://github.com/thenobrainguyy"><img alt="thenobrainguyy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thenobrainguyy&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
   <br/>
   <p align="center">  
-      <a href="https://github.com/thenobrainguyy"><img alt="thenobrainguyy's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=BabyEntchen&theme=ayu-mirage" height="192px"/></a>
+      <a href="https://github.com/thenobrainguyy"><img alt="thenobrainguyy's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?userthenobrainguyy=&theme=ayu-mirage" height="192px"/></a>
   </p>
   &nbsp;
 

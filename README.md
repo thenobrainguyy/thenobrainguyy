@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center"><img src="[https://discord.c99.nl/widget/theme-4/790879003367571456.png](https://discord.c99.nl/widget/theme-5/1336384262508642399.png)"><p/>
+<p align="center"><img src="https://discord.c99.nl/widget/theme-5/1336384262508642399.png"><p/>
 
 ---
 
